@@ -8,9 +8,9 @@
 - Broadcast address: ...
 
 ## Gateway and reachability
-- Default gateway: ...
-- Ping to gateway (avg): ... ms
-- Ping to 1.1.1.1 (avg): ... ms
+- Default gateway: 2 ms
+- Ping to gateway (avg): 4 ms
+- Ping to 1.1.1.1 (avg): 13 ms
 
 ## DNS
 - Configured DNS server(s): ...
