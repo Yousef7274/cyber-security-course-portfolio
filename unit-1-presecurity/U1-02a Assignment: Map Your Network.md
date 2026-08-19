@@ -13,12 +13,12 @@
 - Ping to 1.1.1.1 (avg): 13 ms
 
 ## DNS
-- Configured DNS server(s): ...
+- Configured DNS server(s): 192.168.x.xxx
 - example.com resolves to: ...
 
 ## Path to the internet
-- Hops to example.com: ...
-- First hop: ...
+- Hops to example.com: 30 hops
+- First hop: 13
 
 ## Listening ports
 | Port | Protocol | Interface (localhost / all) | Common use |
