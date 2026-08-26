@@ -4,8 +4,8 @@
 - IPv4 address: 192.168.1.XXX
 - Subnet mask / CIDR: 255.255.255.0
 - MAC address: 70-08-94-D9-XX-XX
-- Network address: ...
-- Broadcast address: ...
+- Network address: 192.168.1.XXX
+- Broadcast address: 192.168.X.XXX
 
 ## Gateway and reachability
 - Default gateway: 2 ms
