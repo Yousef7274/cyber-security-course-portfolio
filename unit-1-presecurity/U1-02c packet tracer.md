@@ -33,7 +33,7 @@
 
 ## Answers
 
-1. 
+1. The types of cables that were used were Copper straight-through.
 
 2. 
 
@@ -47,11 +47,11 @@
 
 7. 
 
-8. 
+8. The red X's meant that it could not receive the packet or signal. The green checkmarks meant that the other device had received the packet.
 
 9. 
 
-10. 
+10. The laptop uses a mac address that starts with 00D0:BA
 
 11. 
 
