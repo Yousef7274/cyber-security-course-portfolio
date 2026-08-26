@@ -1,4 +1,4 @@
-#Questions
+# Questions
 
 1.  What different types of cables/media were used to connect devices?
 
@@ -31,4 +31,34 @@
 15.  Which IP networks are connected by the router?
 
 
-#Answers
+## Answers
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+14. 
+
+15. 
