@@ -5,8 +5,8 @@
 Username: anna.virtanen
 Password: Summer2026!
 
-I had found them in the HTTP POST data:
-`username=anna.virtanen&password=Summer2026!&remember=on`
+I found it in the HTTP POST data:
+username=anna.virtanen&password=Summer2026!&remember=on
 
 ## Question: Was the login submitted using GET or POST?
 
@@ -15,7 +15,7 @@ The login was submitted by using POST.
 ## Question: What is the SESSION ID cookie, and why is it dangerous?
 
 The SESSION ID was:
-`a3f9c2e7b81d4f60a5e2c9d10f4b7e88`
+a3f9c2e7b81d4f60a5e2c9d10f4b7e88
 
 It was shown in the HTTP response as a Set-Cookie header.
 
