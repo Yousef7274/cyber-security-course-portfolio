@@ -1,7 +1,7 @@
 # Network Profile — [my machine]
 
 ## Identity
-- IPv4 address: 192.168.1.XXX
+- IPv4 address: 192.168.X.X
 - Subnet mask / CIDR: 255.255.255.0
 - MAC address: 70-08-94-D9-XX-XX
 - Network address: 192.168.1.XXX
@@ -13,8 +13,8 @@
 - Ping to 1.1.1.1 (avg): 13 ms
 
 ## DNS
-- Configured DNS server(s): 192.168.x.xxx
-- example.com resolves to: ...
+- Configured DNS server(s): 192.168.x.x
+- example.com resolves to: The IPV4 address and IPV6
 
 ## Path to the internet
 - Hops to example.com: 30 hops
