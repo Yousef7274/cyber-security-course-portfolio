@@ -13,7 +13,7 @@
 - Ping to 1.1.1.1 (avg): 18 ms
 
 ## DNS
-- Configured DNS server(s): 192.168.x.x
+- Configured DNS server(s): 192.168.X.X
 - example.com resolves to: The IPV4 address and IPV6
 
 ## Path to the internet
