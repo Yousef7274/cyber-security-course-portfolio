@@ -33,7 +33,7 @@
 
 ## Answers
 
-1. The types of cables that were used were Copper straight-through.
+1. The types of cables that were used were Copper straight-through which i guess would be ethernet cables if i am not wrong.
 
 2. 
 
@@ -45,7 +45,7 @@
 
 6. 
 
-7. 
+7. It was the source mac address
 
 8. The red X's meant that it could not receive the packet or signal. The green checkmarks meant that the other device had received the packet.
 
