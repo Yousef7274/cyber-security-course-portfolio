@@ -18,7 +18,7 @@
 
 ## Path to the internet
 - Hops to example.com: 5 hops
-- First hop: 2001:14ba:a0af:4000:b21f:f4ff:fe72:1776
+- First hop: Was my IPV6 address.
 
 ## Listening ports
 | Port | Protocol | Interface (localhost / all)  | Common use                                |
