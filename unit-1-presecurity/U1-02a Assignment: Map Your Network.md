@@ -17,7 +17,7 @@
 - example.com resolves to: The IPV4 address and IPV6
 
 ## Path to the internet
-- Hops to example.com: 30 hops
+- Hops to example.com: 5 hops
 - First hop: 192.168.X.X
 
 ## Listening ports
