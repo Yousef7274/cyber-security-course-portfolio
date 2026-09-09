@@ -5,7 +5,7 @@
 Username: anna.virtanen
 Password: Summer2026!
 
-I found it in the HTTP POST data:
+I found it in the HTTP POST:
 username=anna.virtanen&password=Summer2026!&remember=on
 
 ## Question: Was the login submitted using GET or POST?
