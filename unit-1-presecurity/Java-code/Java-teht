@@ -1,3 +1,6 @@
+public class App {
+    public static void main(String[] args) throws Exception {
+
 int luku = 120;
      if(luku > 100){
         System.out.println("120 on suurempi kuin 100");
@@ -19,3 +22,4 @@ int luku = 120;
         System.out.println("kaikki numerot ovat samoja");
      }
     }
+}
