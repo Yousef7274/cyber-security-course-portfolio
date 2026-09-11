@@ -1,20 +1,24 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+     int luku = 120;
+     if(luku > 100){
+        System.out.println("120 on suurempi kuin 100");
+     }
+     int luku1 = 5;
+     int luku2 = 5;
+     if(luku1 == luku2){
+        System.out.println("numerot ovat samoja");
+     }
+     String puhelin1 = "iOS";
+     String puhelin2 = "android";
+     if(puhelin1.equals(puhelin2)){
+        System.out.println("arvot eivät ole samoja");
+     }
+     int numero1 = 3;
+     int numero2 = 3;
+     int numero3 = 3;
+     if(numero1 == numero2 && numero2 == numero3){
+        System.out.println("kaikki numerot ovat samoja");
+     }
     }
 }
-String tekija = "Yousef";
-int luku1 = 7;
-int luku2 = 4;
-int luku3 = 0;
-
-System.out.println("Hei olen Tulostin-ohjelma");
-System.out.println("ohjelman tekijä: " + tekija);
-tulo = luku1 * luku2;
-System.out.println(luku1 + "*" + luku2 + "=" tulo);
-int summa = luku1 + luku2;
-System.out.println(luku1 + "+" + luku2 + "=" summa);
-int erotus = luku1 - luku2;
-System.out.println(luku1 + "-" + luku2 + "=" erotus);
-double jako = jakoluku1 / jakoluku2
-System.out.println(luku1 + "/" + luku2 + "=" jako);
