@@ -1,0 +1,21 @@
+int luku = 120;
+     if(luku > 100){
+        System.out.println("120 on suurempi kuin 100");
+     }
+     int luku1 = 5;
+     int luku2 = 5;
+     if(luku1 == luku2){
+        System.out.println("numerot ovat samoja");
+     }
+     String puhelin1 = "iOS";
+     String puhelin2 = "android";
+     if(puhelin1.equals(puhelin2)){
+        System.out.println("arvot eivät ole samoja");
+     }
+     int numero1 = 3;
+     int numero2 = 3;
+     int numero3 = 3;
+     if(numero1 == numero2 && numero2 == numero3){
+        System.out.println("kaikki numerot ovat samoja");
+     }
+    }
