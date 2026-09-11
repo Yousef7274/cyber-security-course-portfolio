@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class App {
+    public static void main(String[] args) throws Exception {
+Scanner in = new Scanner(System.in);
+String input = "";
+System.out.println("Hei, voisitko syöttää nimesi?");
+input = in.nextLine();
+System.out.println("Nimesi on siis " + input);
+
+String input = " ";
+int luku = 0;
+System.out.println("Hei, voisitko antaa minulle luvun?:");
+input = in.nextLine();
+luku = Integer.parseInt(input) * 10;
+System.out.println("lukusi on " + luku);
+    }
+}
