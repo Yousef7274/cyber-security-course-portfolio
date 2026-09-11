@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class App {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        
+        String input = "";
+        System.out.println("Hei, syöttäisitkö minulle numeron");
+        input = in.nextLine();
+        int luku1 = Integer.parseInt(input);
+        System.out.println("Hei, Syöttäisitkö minulle toisen numeron");
+        input = in.nextLine();
+        int luku2 = Integer.parseInt(input);
+       
+        int summa = luku1 + luku2;
+        if (summa > 10){
+            System.out.println("Tulos on yli 10. Tulos on " + summa);
+        } else {
+            System.out.println(summa);
+        }
+        System.out.println("Halutko + vai - laskun");
+        input = in.nextLine();
+        String vastaus = input;
+        if (vastaus.equals("+")){
+            int sum = luku1 + luku2;
+            System.out.println(luku1 + "+" + luku2 + "=" + sum);
+        }
+        if(vastaus.equals("-")){
+            int sub = luku1 - luku2;
+            System.out.println(luku1 + "-" + luku2 + "=" + sub);
+        }
+    }
+}
