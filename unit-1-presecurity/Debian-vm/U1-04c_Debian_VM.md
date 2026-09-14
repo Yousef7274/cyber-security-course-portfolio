@@ -3,13 +3,13 @@
 ## VM identity
 - VM name (in VirtualBox): yousef
 - Hostname (inside Debian): Yousef
-- Debian version (from `cat /etc/debian_version`): 
-- Kernel version (from `uname -r`): 
+- Debian version: 13.6
+- Kernel version: 6.12.107+deb13-amd64
 
 ## Allocated resources
-- CPU cores: 
-- RAM: 
-- Disk size: 
+- CPU cores: 2
+- RAM: 2 gigabytes
+- Disk size: 19 gigabytes
 - Network mode: NAT (default)
 
 ## User account
