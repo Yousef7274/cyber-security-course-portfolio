@@ -71,11 +71,11 @@ basically making an ip address into binary.
 
 ## Networks and hosts per class
 
-|      Class      |  Default CIDR |   Number of possible networks | Number of hosts per network |
-|-----------------|---------------|------------------------------------- |
-|                 |               | 11111111.11111111.11111111.00000000  |
-|                 |               | 11111111.11111111.00000000.00000000  |
-|                 |               | 11111111.00000000.00000000.00000000  |
+| Class |  Default CIDR |   Number of possible networks | Number of hosts per network |
+|-------|---------------|-------------------------------|-----------------------------|
+| A     | /8            |   128                         |   16 million hosts          |
+| B     | /16           |   16k                         |   64k hosts                 |
+| C     | /24           |   2 million                   |   254 hosts                 |
 
 
 
