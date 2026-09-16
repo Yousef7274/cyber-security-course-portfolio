@@ -32,4 +32,6 @@
 
 ## What worked, what didn't
 Two or three sentences on the install experience. What was confusing? What surprised you? What would you do differently if you did it again?
+
+
 The things that worked best for me were doing the settings. As for the things that didn't work it was installing the guest additions, because for some reason it just wouldn't let me install it.s
