@@ -77,6 +77,11 @@ basically making an ip address into binary.
 | B     | /16           |   16k                         |   64k hosts                 |
 | C     | /24           |   2 million                   |   254 hosts                 |
 
+##  The five key values - the main event
+
+
+
+
 
 
 
