@@ -47,4 +47,5 @@ basically making an ip address into binary.
 <img width="3060" height="4080" alt="image" src="https://github.com/user-attachments/assets/212fccd7-7d0a-4978-a007-b2bfcbd78ce6" />
 
 
-## 
+## Recognize the class and CIDR
+
