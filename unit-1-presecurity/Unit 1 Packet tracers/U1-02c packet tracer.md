@@ -35,30 +35,30 @@
 
 1. The types of cables that were used were Copper straight-through which i guess would be ethernet cables if i am not wrong.
 
-2. 
+2. The cables didn't change a bit
 
-3. 
+3. it put them in the right device
 
-4. 
+4. The addressing was not changed by the access point
 
-5. 
+5. It was lAyer 2
 
-6. 
+6. cables use layer 1, the access point uses the 2nd one
 
 7. It was the source mac address
 
 8. The red X's meant that it could not receive the packet or signal. The green checkmarks meant that the other device had received the packet.
 
-9. 
+9. it occured on the router
 
 10. The laptop uses a mac address that starts with 00D0:BA
 
-11. 
+11. it belongs onto the pc and switches
 
-12. 
+12. nothing changed in it
 
-13. 
+13. They switch around
 
-14. 
+14. because a router connects two or more different networks
 
-15. 
+15. The 2 that are connected are 172.16..31.0 and 10.10.10.0
