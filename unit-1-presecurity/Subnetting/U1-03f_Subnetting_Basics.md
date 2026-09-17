@@ -81,7 +81,7 @@ basically making an ip address into binary.
 
 
 
-
+## Which subnet does this host belong to?
 
 
 
