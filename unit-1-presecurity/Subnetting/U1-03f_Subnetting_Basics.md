@@ -102,8 +102,8 @@ Subnet mask: 255.255.255.240
 Network address: 192.168.5.0
 Default gateway: 192.168.5.1
 Host range start: 192.168.5.2
-Host range end: 192.168.5.254
-Broadcast: 192.168.5.255
+Host range end: 192.168.5.15
+Broadcast: 192.168.5.14
 
 ### 3.4 - 10.0.0.0/30
 
@@ -111,15 +111,15 @@ Subnet mask: 255.255.255.252
 Network address: 10.0.0.0
 Default gateway: 10.0.0.1
 Host range start: 10.0.0.2
-Host range end: 10.0.0.254
-Broadcast: 10.0.0.255
+Host range end: 10.0.0.2
+Broadcast: 10.0.0.3
 
 ### 3.5 - 192.168.100.128/25
 
 Subnet mask: 255.255.255.128
-Network address: 192.168.100.0
-Default gateway: 192.168.100.1
-Host range start: 192.168.100.2
+Network address: 192.168.100.128
+Default gateway: 192.168.100.129
+Host range start: 192.168.100.130
 Host range end: 192.168.100.254
 Broadcast: 192.168.100.255
 
