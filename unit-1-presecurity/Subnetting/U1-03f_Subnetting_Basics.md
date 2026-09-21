@@ -126,4 +126,16 @@ Broadcast: 192.168.100.255
 ## Which subnet does this host belong to?
 
 
+### 4.1 - 10.10.0.75/26
 
+Network address of this subnet: 10.10.0.64
+Broadcast of this subnet: 10.10.0.127
+Is this address a valid host address, or is it the network/broadcast? (Explain how you know.)
+
+10.10.0.75
+
+00001010.00001010.00000000.01001011
+
+255.255.255.192
+
+11111111.11111111.11111111.11000000
