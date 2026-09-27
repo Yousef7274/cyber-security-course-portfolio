@@ -44,3 +44,5 @@ Kuljetuspalvelut Tampere Oy
 
 ### 6. indicators
 what red flags would be in my attack for number 1 it would probably be the fake account itself since the finance person could just call the real one and instantly shut down the entire attack. number 2 would be the fake email, since if he just double checks the email differences he would notice the oy is missing. 
+
+# Phase 3 Cross-group critique
