@@ -46,3 +46,5 @@ Kuljetuspalvelut Tampere Oy
 what red flags would be in my attack for number 1 it would probably be the fake account itself since the finance person could just call the real one and instantly shut down the entire attack. number 2 would be the fake email, since if he just double checks the email differences he would notice the oy is missing. 
 
 # Phase 3 Cross-group critique
+1. we probably couldn't evade these controls since they're company double checks almost everything.
+2. their verification method is probably their weakest link since instead of verifying it with a professional IT person. theyre using an external web.
