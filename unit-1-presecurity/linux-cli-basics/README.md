@@ -19,7 +19,7 @@ the largest file i have is dpkg.log with 809k
 ## Question 10
 my most recent file that was modified is popularity-content-gpg that was modified at september 14
 ## Question 11
-
+by using mkdir i was able to make unit1,2 mkdir -p ~/cyber-course/unit3/{osint,recon,crypto} ~/cyber-course/scratch i could make 
 ## Question 12
 
 ## Question 13
