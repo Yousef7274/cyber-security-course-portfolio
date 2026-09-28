@@ -10,7 +10,7 @@ a typical attack i would see on discord which almost happends everyday would be 
 my defence is 2FA since even if they got access to my account they would need to verify that they own this account and i would change my password so they wouldn't know my password anymore. 2FA basically gives you 2 identification methods before giving you access to the account. the attacker would most likely have to give up since i have 2FA enabled and i would have changed my password so he would have to give me the link again in hopes i click it. a weakness to my 2FA would probably be if i logged in to attacker controlled site, since 2FA would just let them have access since i gave them the code so that would be useless and before i could change my password they would probably do it faster then me.
 
 ## CIA angle
-it would affect confidentiality the most since the attacker wants to see information he wouldnt have. 
+it would affect confidentiality the most since the attacker wants to see information he shouldn't be seeing. 
 
 ## What I'm changing this week
 Find a website or safe app that checks suspicious links.
