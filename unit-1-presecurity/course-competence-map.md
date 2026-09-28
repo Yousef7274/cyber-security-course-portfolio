@@ -28,7 +28,7 @@ Last updated: 28/9/2026
 | Osaa tehdä laitteiden suojauksen kannalta tärkeät ohjelmistoasennukset ja asetukset sekä päivittää ne tarvittaessa (can install and configure device security software, and keep it updated) | debian asennus https://github.com/Yousef7274/cyber-security-course-portfolio/blob/main/unit-1-presecurity/Debian-vm/U1-04c_Debian_VM.md | Latasin virtuaalikoneen ja asensin siihen debianin luotettavalta verkkosivulta. Asennuksen jälkeen menin virtuaalikoneen asetuksiin ja muutin muutamia asioita. annoin koneelle vain 2 gigabytes muistia että se ei ottaa tietokonettanista liikaa. laitoin koneen tyypiksi linuxin ja annoin sille 2 prosessoria. annoin sille 20 gigabytes levytilaa.  |
 | Osaa huomioida tietoturvan tiedonsiirrossa ja tallennuksessa (can address security in data transmission and storage) | wireshark https://github.com/Yousef7274/cyber-security-course-portfolio/blob/main/unit-1-presecurity/web-traffic-analysis/wireshark-first-look.md | katsomalla wiresharkilla joku kuviteellinen tili, etsin salasanaa verkkoliikenteestä  HTTP:llä ja HTTPS:llä. HTTP:llä pystyin nähdä salasanan mutta HTTPS:llä en pystynyt koska liikenne on salattua. |
 | Huomioi laitteiden fyysisen suojauksen kotona, työpaikalla ja matkustettaessa (addresses physical device security at home, at work, and while travelling) |  |  |
-| Tunnistaa sosiaalisen manipuloinnin keinot ja osaa varautua niihin (recognizes social engineering methods and can defend against them) | social engineering tabletop https://github.com/Yousef7274/cyber-security-course-portfolio/blob/main/unit-2-intro-cybersec/social-engineering-tabletop/README.md |  |
+| Tunnistaa sosiaalisen manipuloinnin keinot ja osaa varautua niihin (recognizes social engineering methods and can defend against them) | social engineering tabletop https://github.com/Yousef7274/cyber-security-course-portfolio/blob/main/unit-2-intro-cybersec/social-engineering-tabletop/README.md | Toimin hyökkääjänä ja toteutin tietojenkalasteluhyökkäyksen taloustiimiä vastaan ​​tekeytymällä yhdeksi heidän toimittajistaan; selvitin toimittajan henkilöllisyyden tarkistamalla tiedot LinkedInistä. |
 
 ---
 
@@ -60,6 +60,9 @@ Brief description of how my portfolio is organized:
 ## Closing reflection
 
 Filled in at the end of the course:
-- Which assignment do I think most strongly demonstrates my learning?
-- Which competence am I least confident about, and why?
-- One thing I want to keep learning about after this course ends.
+## - Which assignment do I think most strongly demonstrates my learning?
+se tehtävä joka parhaiten osoittaa oppimiseni, oli verkon kartoittaminen sillä osasin tehdä suurimman osan siihen kuuluvista tehtävistä ja ratkaisin myös matkan varrella ilmenneitä ongelmia
+## - Which competence am I least confident about, and why?
+todennäköisesti kyse olisi pilvipalveluihin liittyvistä käsitteistä, sillä en ymmärtänyt niitä kovin helposti edes lukiessani niistä
+## - One thing I want to keep learning about after this course ends.
+minä opiskelisin kaikista viruksista ja siitä, miten pidän tietoni turvassa haluan koska haluan pitää tietoni poissa muiden ihmisiltä. Aion varmaan myös opetella ulkoa paljon cmd komentoja, että jos tarvitsen jonnekin, niin käyttäisin sitä
