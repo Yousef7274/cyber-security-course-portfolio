@@ -19,17 +19,17 @@ the largest file i have is dpkg.log with 809k
 ## Question 10
 my most recent file that was modified is popularity-content-gpg that was modified at september 14
 ## Question 11
-by using mkdir i was able to make unit1,2 mkdir -p ~/cyber-course/unit3/{osint,recon,crypto} ~/cyber-course/scratch i could make 
+by using mkdir i was able to make unit1 unit2 unit3 mkdir -p ~/cyber-course/unit3/{osint,recon,crypto} ~/cyber-course/scratch is the command i used to make osint recon and crypto into unit3
 ## Question 12
-
+i used CTRL X to exit and when i used it it told me do you want to save? and i pressed Y and enter to save
 ## Question 13
-
+rmdir only removes empty directories
 ## Question 14
-
+Debian GNU/Linux 13 (trixie)
 ## Question 15
-
+The log shows routine system messages, sudo and PAM session opened/closed entries including my own sudo commands.
 ## Question 16
-
+the number is 1
 ## Question 17
 
 ## Question 18
