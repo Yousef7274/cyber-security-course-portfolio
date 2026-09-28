@@ -54,8 +54,8 @@ Last updated: 28/9/2026
 
 ## My portfolio overall
 
-Brief description of how my portfolio is organized:
-[2–3 sentences describing the structure of your repo, written when finalizing]
+## Brief description of how my portfolio is organized:
+Portfolioni ei ole kovin järjestelmällinen, mutta se näyttää melko siistiltä, ​​koska kaikki on paikoillaan eikä mikään ole pielessä.
 
 ## Closing reflection
 
