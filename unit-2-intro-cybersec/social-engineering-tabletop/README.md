@@ -19,26 +19,26 @@ my scenario is a fake invoice from a know supplier but i alter their account num
 the controller approves it and pays the invoice as part of their normal process, thats if they don't double check the account details so the money goes straight to me.
 
 ### 5. Execution script
-#### i chose email text for this one and the fake email i have is: billing@kuljetuspalvelut-tampere.fi the real one has oy in it
+#### i chose email text for this one and the fake email i have is: billings@kuljettelu-tampere.fi the real one has oy in it
 Subject: Updated Invoice – Kuljetuspalvelut Tampere Oy – Payment Due 26.12.2027
 
-From: billing@kuljetuspalvelut-tampere.fi
-To: matti viitakoski, pohjola logistics oy
+From: billings@kuljettelu-tampere.fi
+To: mato veeri, pohjola logistics oy
 
-Hello Matti,
+Hello Mato,
 
 Please find attached the invoice for our latest transport services due for payment by 26.12.2027
 
 please note that we have recently updated our bank account details due to an internal account restructuring, please ensure payment is sent to the new account listed below and disregard any previous account information you may have on file:
 
-Bank: Nordea
-Account Name: Kuljetuspalvelut Tampere Oy
-IBAN: FI21 1234 5678 9000
+Bank: pankki
+Account Name: Kuljetuspalvelu Tampere Oy
+IBAN: FI00 0000 0000 0000 0000
 
 Let us know when the payment has been processed, apologies for any inconvenience caused by the change.
 
 kind regards,
-Henkka Niinistö
+Henki kaisto
 Kuljetuspalvelut Tampere Oy
 
 
