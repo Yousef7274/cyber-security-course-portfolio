@@ -13,3 +13,8 @@ The main CIA triad principle affected in this scenario is availability. The rans
 # Scenario B - The leaked database
 
 ## An online retailer discovers that a copy of its customer database - including names, addresses, hashed passwords (MD5), and partial credit card numbers - has been posted on a criminal forum. The retailer's systems were not encrypted by the attacker; data was simply copied out.
+The main C.I.A triad principle that was attacked in this scenario would be Confidentiality since the attacker ONLY copied the customer database. And since he did not change any information on the customer database it does not attack integrity and since the attacker didn't prevent them from accessing the customer database this scenario doesn't affect Availability. 
+
+# Scenario C - The defaced municipal site
+
+## A municipality's public website is defaced overnight. The homepage is replaced with a political message. No personal data is affected, but the site is offline for 4 hours while staff restore from backup. Local news reports the incident widely.
