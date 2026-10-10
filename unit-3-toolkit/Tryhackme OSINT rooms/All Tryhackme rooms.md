@@ -6,7 +6,7 @@ Kaonai
 ## Names of all the rooms
 #### Sakura Room
 #### Missing Person
-#### Room Icon The Brochure
+#### The Brochure
 #### Water Bottle
 #### Digital Footprint
 #### Letter
