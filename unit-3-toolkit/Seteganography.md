@@ -1,4 +1,4 @@
-# task 1
+# task 1    Embed the following sentence into a picture of your choosing, delete the original text file, and extract the secret sentence.  "Hello, this is a secret message!"
 
 ## this is the picture file i chose ("before i embedded anything inside")
 
