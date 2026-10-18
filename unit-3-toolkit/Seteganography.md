@@ -30,4 +30,5 @@ the 2nd reason i was able to tell that "cat1" had the embedded secret message wa
 
 inside of the secret text file was written "This is a secret message!"
 
-# task 3
+# task 3 You are a cybersecurity professional performing an authorized penetration test on TechNova Solutions. You have successfully gained access to an internal file server and extracted an Excel spreadsheet containing employee data 
+
