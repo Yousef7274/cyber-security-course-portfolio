@@ -32,7 +32,7 @@ inside of the secret text file was written "This is a secret message!"
 
 # task 3 You are a cybersecurity professional performing an authorized penetration test on TechNova Solutions. You have successfully gained access to an internal file server and extracted an Excel spreadsheet containing employee data Your engagement scope requires you to demonstrate that data can be exfiltrated from the network without triggering DLP (Data Loss Prevention) alerts. Directly emailing or uploading the XLSX would be caught. Your task is to embed the spreadsheet into a legitimate-looking audio file of your choosing and demonstrate you can extract it later.
 
-I first off make an audio file by using a music application and making the audio have only white noise play for 15 seconds. I downloaded the file as a .WAV format and named it Favourite-sound
+I first off make an audio file by using a music application and making the audio have only white noise play for 15 seconds. I downloaded the file as a .WAV format and named it Favourite-sound. I donwloaded it as a .WAV format because its easier to embed things into it compared to .MP3
 
 <img width="233" height="431" alt="image" src="https://github.com/user-attachments/assets/e26282e5-3dca-4f54-baca-4c35591060e5" />
 
