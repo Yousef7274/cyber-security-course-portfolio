@@ -30,5 +30,26 @@ the 2nd reason i was able to tell that "cat1" had the embedded secret message wa
 
 inside of the secret text file was written "This is a secret message!"
 
-# task 3 You are a cybersecurity professional performing an authorized penetration test on TechNova Solutions. You have successfully gained access to an internal file server and extracted an Excel spreadsheet containing employee data 
+# task 3 You are a cybersecurity professional performing an authorized penetration test on TechNova Solutions. You have successfully gained access to an internal file server and extracted an Excel spreadsheet containing employee data Your engagement scope requires you to demonstrate that data can be exfiltrated from the network without triggering DLP (Data Loss Prevention) alerts. Directly emailing or uploading the XLSX would be caught. Your task is to embed the spreadsheet into a legitimate-looking audio file of your choosing and demonstrate you can extract it later.
 
+I first off make an audio file by using a music application and making the audio have only white noise play for 15 seconds. I downloaded the file as a .WAV format and named it Favourite-sound
+
+<img width="233" height="431" alt="image" src="https://github.com/user-attachments/assets/e26282e5-3dca-4f54-baca-4c35591060e5" />
+
+Since i made the audio file big enough to have 1,38 megabytes it had enough space to fit the file i need to hide. then i went to powershell to use steghide to hide the excel spreadsheet in the audio file that i made and wrote this command to embed the file. i also renamed the file into Favourite-music, the .WAV in the end was to make the file stay as .WAV format. 
+
+<img width="863" height="86" alt="image" src="https://github.com/user-attachments/assets/54cacc42-921c-440e-a9b2-fd8b064d68ad" />
+
+
+The 2nd image is to show that the audio file has the excel spreadsheet inside it.
+
+<img width="868" height="190" alt="image" src="https://github.com/user-attachments/assets/e9ed11b8-5920-4e80-b894-61e4954eadcf" />
+
+the passphrase i gave it was simple, its "zaza"
+
+
+now how do i extract this file? By using steghide once again.
+
+By using the "extract -sf" command i can extract the excel spreadsheet from the audio file. 
+
+<img width="857" height="88" alt="image" src="https://github.com/user-attachments/assets/966751e3-fe4b-4f15-b226-8785b0dfc468" />
