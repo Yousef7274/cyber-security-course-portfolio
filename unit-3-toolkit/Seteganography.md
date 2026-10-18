@@ -53,3 +53,10 @@ now how do i extract this file? By using steghide once again.
 By using the "extract -sf" command i can extract the excel spreadsheet from the audio file. 
 
 <img width="857" height="88" alt="image" src="https://github.com/user-attachments/assets/966751e3-fe4b-4f15-b226-8785b0dfc468" />
+
+
+
+## Here is the audio file with the embedded file inside, once again the password/passphrase is "zaza"
+
+
+[Favourite-music.WAV](https://github.com/user-attachments/files/33617137/Favourite-music.WAV)
