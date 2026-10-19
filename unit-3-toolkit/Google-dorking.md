@@ -13,6 +13,7 @@
 ## Make sure you aren't committing findings to the public portfolio, since it might be considered illegal! Remember ethical and legal considerations!
 
 I honestly have no clue on how i could send proof/photos of my research when its "ILLEGAL" so ill just ask in class. 
+"one way i thought of doing it was blurring all the sensitive information and website name but i aint sure so im not gonna try"
 
 ## Here are the 10 examples:
 
