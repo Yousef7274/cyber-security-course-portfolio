@@ -1,6 +1,6 @@
 # 1. Install VMware. Download and install VMware Workstation (Windows / Linux) or Fusion (macOS).
 
-### I downloaded VMware since i use Windows .
+### I downloaded VMware since i use Windows.
 
 <img width="230" height="404" alt="image" src="https://github.com/user-attachments/assets/f1c58ad7-b7e9-4877-a616-1616a110c5f8" />
 
