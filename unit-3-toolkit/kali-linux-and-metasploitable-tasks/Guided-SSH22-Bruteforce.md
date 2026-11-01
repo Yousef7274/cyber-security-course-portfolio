@@ -41,3 +41,4 @@
 
 # 8. Switch to user session and check info, then switch to admin session.
 
+<img width="959" height="564" alt="image" src="https://github.com/user-attachments/assets/73cffd75-2712-4baf-b4f9-095b11adfa48" />
