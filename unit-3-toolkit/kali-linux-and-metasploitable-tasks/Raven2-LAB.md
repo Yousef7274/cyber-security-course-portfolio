@@ -63,11 +63,11 @@
 
 <img width="959" height="547" alt="image" src="https://github.com/user-attachments/assets/22497d77-1eeb-4dcf-b925-d2c035bf930f" />
 
-### The first attempt failed.
+# Attempt 1 fail.
 
 <img width="465" height="43" alt="image" src="https://github.com/user-attachments/assets/6d94d63b-05b8-4458-9057-243b7e25eff6" />
 
-## Second attempt.
+# Second attempt.
 
 ### This time im checking the connectivity and checking Raven2's ports.
 
@@ -99,6 +99,6 @@
 
 <img width="367" height="66" alt="image" src="https://github.com/user-attachments/assets/396959a0-070c-4e2d-baf5-5a72bdbc28fb" />
 
-## Attempt 2 fail.
+# Attempt 2 fail.
 
 # Attempt 3 ???
