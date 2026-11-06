@@ -4,7 +4,7 @@
 
 <img width="744" height="113" alt="image" src="https://github.com/user-attachments/assets/0abe23b1-0f76-4d41-9484-91264036d40e" />
 
-### Now i go inside VMware workstation to create a new Virtual Machine and i make sure its typical. I go to download an ISO file since a new VM needs one, i downloaded it from this link https://ubuntu.com/download/server. I made the VM NAT for now so i could install Gophish in it.
+### Now i go inside VMware workstation to create a new Virtual Machine and i make sure its typical. I go to download an ISO file since a new VM needs one, i downloaded it from this link https://ubuntu.com/download/server. I made the VM NAT so i could install Gophish in it.
 
 <img width="959" height="557" alt="image" src="https://github.com/user-attachments/assets/aa02d1e3-0089-4e1d-aeeb-4630d56dadb0" />
 
@@ -69,7 +69,7 @@ ________________________________________________________________________________
 
 ### Now i need to enter the ip inside my browser in order to enter the phishing website. 
 
-<img width="959" height="561" alt="image" src="https://github.com/user-attachments/assets/a556ad20-afc4-4cf8-92cf-77aea879664f" />
+<img width="959" height="559" alt="image" src="https://github.com/user-attachments/assets/88596c30-1e93-4631-afe7-804c9cde4fcc" />
 
 <img width="959" height="559" alt="image" src="https://github.com/user-attachments/assets/836c7e47-a329-4d64-8f3b-fea67a0e9c3c" /> 
 
@@ -87,15 +87,85 @@ ________________________________________________________________________________
 
 <img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/56a31aa4-e50f-496c-8c9c-79ebbd79d515" />
 
+### I make an account in Mailgun.com in order to get a domain, i made a new smtp user aswell. After doing so i save the information from it.
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/b5b82400-da2e-4e6c-a633-409b568f0b91" />
+
+<img width="959" height="527" alt="image" src="https://github.com/user-attachments/assets/3d799778-89ff-4af5-9903-3f3b7eb04add" />
+
+<img width="835" height="436" alt="image" src="https://github.com/user-attachments/assets/d8cb200a-5386-4631-8a67-6a5ccaa6be09" />
+
+<img width="298" height="190" alt="image" src="https://github.com/user-attachments/assets/d53adc85-2acf-432c-9d19-686833605305" />
+
+
+### I now tab back into the Gophish tab to make the sending profile. I put all the information that i got from mailgun and sent a test email to my email to see if it worked.
+
+<img width="528" height="470" alt="image" src="https://github.com/user-attachments/assets/61a3708e-094c-49f2-91c9-6ea5fe454d4d" />
+
+<img width="525" height="249" alt="image" src="https://github.com/user-attachments/assets/3e3b17e9-c46f-4273-b9bd-997d75be4369" />
+
+<img width="787" height="389" alt="image" src="https://github.com/user-attachments/assets/4df9cde4-0b88-4a1e-ab33-e94ea32cba2c" />
+
+
+### Now i need to make an email template. I wrote all the information and also a little bit of html code "that took me 15 minutes".
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/1ee61b2d-ad89-419d-9593-f2cebba35306" />
+
+<img width="422" height="492" alt="image" src="https://github.com/user-attachments/assets/2038139a-093d-4fe2-9f76-ee5e41bf23f1" />
+
+<img width="260" height="476" alt="image" src="https://github.com/user-attachments/assets/571d1ebf-9d4f-4d71-ad9c-98e878affa56" />
+
+<img width="959" height="564" alt="image" src="https://github.com/user-attachments/assets/db946b84-33a0-4258-a733-5af56c47eec4" />
+
+### Now finally i will make the landing page. 
+
+<img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/0ed7eeae-8a20-43f8-8bbe-680901f3ec3d" />
+
+<img width="551" height="474" alt="image" src="https://github.com/user-attachments/assets/9e5945a5-049f-4c56-b2f6-5b85a10087c3" />
+
+#### Some more html coding. (good god)
+
+<img width="349" height="485" alt="image" src="https://github.com/user-attachments/assets/2eeaff6b-73cc-4f71-937e-95a0d702b16b" />
+
+# Recruit a small opt-in group from the class (written consent, in advance) This is the ONLY acceptable target pool!
+
+### Now that i am done setting up everything, i go to make my target group which i cant right now since i have nobody 😭.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# a tiny test i did where i tried to make a Host-Only server.
+
 ### I opened a 2nd terminal in my Gophish VM by using the combination "ctrl + alt + F2" and "ctrl + alt + F1" to go back to the original VM. I have the 1st terminal still open to keep the phishing page up. Now in the 2nd terminal i start a local mail server by making a python code file with nano. After a painful 35 minutes of writing python code i save the file with "ctrl + O" then exit it using "ctrl X". 
 
 <img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/c078ead6-c287-4847-b3b2-bd7fceb3557f" />
 
-### Time to test if it works. Sh#t it failed because of a typo, motherfu##. "nano fake_smtp.py" to fix my mistake quickly.
+### Time to test if it works. Sh#t, it failed because of a typo, motherfu##. "nano fake_smtp.py" to fix my mistake quickly.
 
 <img width="266" height="76" alt="image" src="https://github.com/user-attachments/assets/a6b1b67c-e401-4f2d-9b56-0a5de238b827" />
 
-## There we go it works now.
+## There we go it works now, for now ill keep it running in the backround while i go back to the first terminal.
 
 <img width="250" height="48" alt="image" src="https://github.com/user-attachments/assets/f8adfda2-b160-4273-bf3b-2ace1b4d06e1" />
+
+
 
