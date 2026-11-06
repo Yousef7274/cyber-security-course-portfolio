@@ -137,6 +137,29 @@ ________________________________________________________________________________
 
 
 
+### Before i click send i make an ngrok temporary public url that reaches straight to my VM. First i make an email in ngrok.com for the token.
+
+<img width="959" height="528" alt="image" src="https://github.com/user-attachments/assets/13dfc94f-b695-4bc8-8617-ab21505062d0" />
+
+<img width="724" height="419" alt="image" src="https://github.com/user-attachments/assets/7babaaa6-29cd-40d2-a7a6-cc7162aa7139" />
+
+### In the VM's terminal i download ngrok inside.
+
+<img width="706" height="295" alt="image" src="https://github.com/user-attachments/assets/31c85703-8d7a-4f3b-816a-3ffce7ba20e5" />
+
+<img width="374" height="236" alt="image" src="https://github.com/user-attachments/assets/c9cae098-aa18-4866-a785-ad90e305ffad" />
+
+### Once i added the auth-token i need to start my endpoint.
+
+<img width="180" height="16" alt="image" src="https://github.com/user-attachments/assets/6e757de3-cc47-483c-8b4a-aa66b1911c30" />
+
+<img width="349" height="14" alt="image" src="https://github.com/user-attachments/assets/6f466b0f-dbd9-43dd-ac34-5217278ede3d" />
+
+<img width="356" height="60" alt="image" src="https://github.com/user-attachments/assets/64d8a259-bc8d-4086-b258-d19e0eba4445" />
+
+<img width="425" height="191" alt="image" src="https://github.com/user-attachments/assets/fc0e9f4b-82ee-49d5-858b-a11c2fb18e1a" />
+
+### ???
 
 
 
@@ -163,7 +186,7 @@ ________________________________________________________________________________
 
 <img width="266" height="76" alt="image" src="https://github.com/user-attachments/assets/a6b1b67c-e401-4f2d-9b56-0a5de238b827" />
 
-## There we go it works now, for now ill keep it running in the backround while i go back to the first terminal.
+## There we go it finally works. welp, this was a waste of time, i don't know what i was thinking. Maybe i have gone insane.
 
 <img width="250" height="48" alt="image" src="https://github.com/user-attachments/assets/f8adfda2-b160-4273-bf3b-2ace1b4d06e1" />
 
