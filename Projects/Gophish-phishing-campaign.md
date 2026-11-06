@@ -129,7 +129,7 @@ ________________________________________________________________________________
 
 # Recruit a small opt-in group from the class (written consent, in advance) This is the ONLY acceptable target pool!
 
-### Now that i am done setting up everything, i go to make my target group which i cant right now since i have nobody 😭.
+### Now that i am done setting up everything, i go to make my target group which i cant right now since i have nobody.
 
 
 
