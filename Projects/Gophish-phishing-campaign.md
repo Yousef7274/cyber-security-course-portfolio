@@ -47,4 +47,55 @@ ________________________________________________________________________________
 
 ### Now finally i have to reboot the VM by using "sudo reboot" so it can get the new IP.
 
-# Build a landing page, an email template, and a sending profile
+<img width="480" height="236" alt="image" src="https://github.com/user-attachments/assets/8dbd0d6b-4ed1-425b-b6e5-d075e8e1fdc6" />
+
+# 2. Build a landing page, an email template, and a sending profile.
+
+## I first need access to the admin panel in order to set all 3 of them up. 
+
+### I go into the Gophish directory with the cd command then use the nano command to edit the file.
+
+<img width="959" height="296" alt="image" src="https://github.com/user-attachments/assets/60c80135-7ecd-43d3-a308-20168b6ef56c" />
+
+### once inside i have to turn the first listening url from "127.0.0.1:3333" into 0.0.0.0:3333 so it gives me access to the admin panel. I make sure to press "ctrl + O + enter" so it saves and names the file the same as it was, then i use "ctrl + X" to exit. After doing so i have to reboot the VM so it gets the new ip.
+
+<img width="959" height="361" alt="image" src="https://github.com/user-attachments/assets/1c87a619-6e46-43c3-bf70-1621dc0761ad" />
+
+<img width="718" height="89" alt="image" src="https://github.com/user-attachments/assets/de5312c3-c9c7-417f-b267-11d90cc357e0" />
+
+### A quick check to see if it works.
+
+<img width="493" height="125" alt="image" src="https://github.com/user-attachments/assets/0daa362b-90d7-42e3-985c-e411d0990dcc" />
+
+### Now i need to enter the ip inside my browser in order to enter the phishing website. 
+
+<img width="959" height="561" alt="image" src="https://github.com/user-attachments/assets/a556ad20-afc4-4cf8-92cf-77aea879664f" />
+
+<img width="959" height="559" alt="image" src="https://github.com/user-attachments/assets/836c7e47-a329-4d64-8f3b-fea67a0e9c3c" /> 
+
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/43699847-2156-4d6b-8ff1-c2848bc920b6" />
+
+### Now i log in into the phishing website, so i can make a permanent password and also make a landing page, an email template, and a sending profile.
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/083ab057-b175-418a-834d-fabf90ecb417" />
+
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/a4c695ad-74a1-4a68-92e6-04493857ff96" />
+
+### Now that i am in, i decided to make a sending profile first so on the panel on the left i clicked "Sending Profiles" and put that on hold.
+
+<img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/4d285d82-4f21-4b85-ae40-3ecf0cbb3d4b" />
+
+<img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/56a31aa4-e50f-496c-8c9c-79ebbd79d515" />
+
+### I opened a 2nd terminal in my Gophish VM by using the combination "ctrl + alt + F2" and "ctrl + alt + F1" to go back to the original VM. I have the 1st terminal still open to keep the phishing page up. Now in the 2nd terminal i start a local mail server by making a python code file with nano. After a painful 35 minutes of writing python code i save the file with "ctrl + O" then exit it using "ctrl X". 
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/c078ead6-c287-4847-b3b2-bd7fceb3557f" />
+
+### Time to test if it works. Sh#t it failed because of a typo, motherfu##. "nano fake_smtp.py" to fix my mistake quickly.
+
+<img width="266" height="76" alt="image" src="https://github.com/user-attachments/assets/a6b1b67c-e401-4f2d-9b56-0a5de238b827" />
+
+## There we go it works now.
+
+<img width="250" height="48" alt="image" src="https://github.com/user-attachments/assets/f8adfda2-b160-4273-bf3b-2ace1b4d06e1" />
+
