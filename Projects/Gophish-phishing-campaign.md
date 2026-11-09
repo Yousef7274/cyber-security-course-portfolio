@@ -87,7 +87,7 @@ ________________________________________________________________________________
 
 <img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/56a31aa4-e50f-496c-8c9c-79ebbd79d515" />
 
-### I make an account in Mailgun.com in order to get a domain, i made a new smtp user aswell. After doing so i save the information from it.
+### I make an account in Mailgun.com in order to get a domain, i made a new smtp user aswell. After doing so i save the information from it. I make sure the email is the same as the person im attacking.
 
 <img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/b5b82400-da2e-4e6c-a633-409b568f0b91" />
 
@@ -97,6 +97,7 @@ ________________________________________________________________________________
 
 <img width="298" height="190" alt="image" src="https://github.com/user-attachments/assets/d53adc85-2acf-432c-9d19-686833605305" />
 
+<img width="799" height="165" alt="image" src="https://github.com/user-attachments/assets/ca35f344-05e8-4dd2-b6d5-123f03bcfb5f" />
 
 ### I now tab back into the Gophish tab to make the sending profile. I put all the information that i got from mailgun and sent a test email to my email to see if it worked.
 
@@ -127,9 +128,9 @@ ________________________________________________________________________________
 
 <img width="349" height="485" alt="image" src="https://github.com/user-attachments/assets/2eeaff6b-73cc-4f71-937e-95a0d702b16b" />
 
-# Recruit a small opt-in group from the class (written consent, in advance) This is the ONLY acceptable target pool!
+# 3. Recruit a small opt-in group from the class (written consent, in advance) This is the ONLY acceptable target pool!
 
-### Now that i am done setting up everything, i go to make my target group. First i need one classmate and his consent, so i open google forms to have the classmate consent so i don't go to jail if i use it on them.
+### Now that i am done setting up everything, i go to make my target group. First i need one classmate and his consent, so i open google forms to have the classmate, consent so i don't go to jail if i use it on them.
 
 <img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/20d37aba-1a60-408a-861b-9a372e6b1de9" />
 
@@ -139,13 +140,9 @@ ________________________________________________________________________________
 
 ### After getting consent i now need to make a new group in the gophish website.
 
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/736704cf-ae2c-4f8b-b447-b69c884846d2" />
 
-
-
-
-
-
-### Before i click send i make an ngrok temporary public url that reaches straight to my VM. First i make an email in ngrok.com for the token.
+### Before i make the users and groups in gophish and send it, i make a ngrok temporary public url that reaches straight to my VM. First i make an email in ngrok.com for the token.
 
 <img width="959" height="528" alt="image" src="https://github.com/user-attachments/assets/13dfc94f-b695-4bc8-8617-ab21505062d0" />
 
@@ -167,21 +164,29 @@ ________________________________________________________________________________
 
 <img width="425" height="191" alt="image" src="https://github.com/user-attachments/assets/fc0e9f4b-82ee-49d5-858b-a11c2fb18e1a" />
 
-### ???
+### I now make my users and groups.
 
+<img width="526" height="432" alt="image" src="https://github.com/user-attachments/assets/fc4b82fb-4d09-4b92-a8d3-7ea4ab384650" />
 
+### Now i finally have to make a campaign, then launch it.
 
+<img width="959" height="559" alt="image" src="https://github.com/user-attachments/assets/9b018d0a-446e-43ec-bce7-143961337d97" />
 
+<img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/c7b1d45a-8b47-47d0-9ffb-c86e39288512" />
 
+<img width="959" height="564" alt="image" src="https://github.com/user-attachments/assets/b92a7fdf-fe85-4c6f-b8a2-92c93761d33f" />
 
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/b6a6b07c-c18d-4b0f-8832-11b3206028d9" />
 
+<img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/ba90646a-5395-466f-b2b2-a46a23172b6f" />
 
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/1e0dfe34-33e7-441a-9683-bd33bbc464c6" />
 
+<img width="786" height="56" alt="image" src="https://github.com/user-attachments/assets/7921b9a2-efd3-4de3-b0d7-2eb87a9cc397" />
 
+<img width="805" height="377" alt="image" src="https://github.com/user-attachments/assets/45b4018d-8c0b-4744-a03a-3a32e94d7182" />
 
-
-
-
+<img width="416" height="197" alt="image" src="https://github.com/user-attachments/assets/458d91ee-0a94-4903-83c3-47675bf084a9" />
 
 
 # a tiny test i did where i tried to make a Host-Only server.
