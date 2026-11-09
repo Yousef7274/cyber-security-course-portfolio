@@ -129,7 +129,15 @@ ________________________________________________________________________________
 
 # Recruit a small opt-in group from the class (written consent, in advance) This is the ONLY acceptable target pool!
 
-### Now that i am done setting up everything, i go to make my target group which i cant right now since i have nobody.
+### Now that i am done setting up everything, i go to make my target group. First i need one classmate and his consent, so i open google forms to have the classmate consent so i don't go to jail if i use it on them.
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/20d37aba-1a60-408a-861b-9a372e6b1de9" />
+
+### Here is the full form, i enabled collect email so i could also verify that part.
+
+<img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/e38b0762-25d1-4258-8f38-1bad773acf31" />
+
+### After getting consent i now need to make a new group in the gophish website.
 
 
 
