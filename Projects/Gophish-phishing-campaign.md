@@ -1,3 +1,7 @@
+
+# ⚠️ Ethical & legal: Phishing anyone without their written prior consent is a criminal offence in Finland (Rikoslaki Ch. 38 § 6 - petos / Ch. 36 - identity fraud, depending on content), and sending bulk unsolicited mail may also violate the e-Privacy Directive. The consent step is non-negotiable. If you can't get it in writing, don't run the campaign. Clear out the Gophish database when done.
+
+
 # 1. Download and install Gophish onto a VM.
 
 ### I first go into the Gophish phishing campaing github in order to download the file that i need. I make sure to download the linux one since the VM im running it on is going to be in linux.
