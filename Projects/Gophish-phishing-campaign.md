@@ -189,6 +189,34 @@ ________________________________________________________________________________
 <img width="416" height="197" alt="image" src="https://github.com/user-attachments/assets/458d91ee-0a94-4903-83c3-47675bf084a9" />
 
 
+#### Afterwards i debriefed my friend on what the website gave me and what info it gave me.
+
+### also here is what the website looked like
+
+<img width="4080" height="3060" alt="20261109_105903" src="https://github.com/user-attachments/assets/adba9125-756c-44a6-ba78-7dbdbb8b73e2" />
+
+<img width="4080" height="3060" alt="20261109_104946" src="https://github.com/user-attachments/assets/c451e9d6-11ba-42ff-9260-5be6fcd0af24" />
+
+
+_________________________________________________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________________________________________________
+
+
 # a tiny test i did where i tried to make a Host-Only server.
 
 ### I opened a 2nd terminal in my Gophish VM by using the combination "ctrl + alt + F2" and "ctrl + alt + F1" to go back to the original VM. I have the 1st terminal still open to keep the phishing page up. Now in the 2nd terminal i start a local mail server by making a python code file with nano. After a painful 35 minutes of writing python code i save the file with "ctrl + O" then exit it using "ctrl X". 
@@ -199,7 +227,7 @@ ________________________________________________________________________________
 
 <img width="266" height="76" alt="image" src="https://github.com/user-attachments/assets/a6b1b67c-e401-4f2d-9b56-0a5de238b827" />
 
-## There we go it finally works. welp, this was a waste of time, i don't know what i was thinking. Maybe i have gone insane.
+## There we go it finally works. welp, this was a waste of time, i don't know what i was thinking.
 
 <img width="250" height="48" alt="image" src="https://github.com/user-attachments/assets/f8adfda2-b160-4273-bf3b-2ace1b4d06e1" />
 
