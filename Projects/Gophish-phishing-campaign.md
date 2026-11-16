@@ -195,12 +195,17 @@ ________________________________________________________________________________
 
 #### Afterwards i debriefed my friend on what the website gave me and what info it gave me.
 
-### also here is what the website looked like
+### Also here is what the website looked like.
 
 <img width="4080" height="3060" alt="20261109_105903" src="https://github.com/user-attachments/assets/adba9125-756c-44a6-ba78-7dbdbb8b73e2" />
 
 <img width="4080" height="3060" alt="20261109_104946" src="https://github.com/user-attachments/assets/c451e9d6-11ba-42ff-9260-5be6fcd0af24" />
 
+
+# Once you are done, delete everything.
+
+
+### I deleted everything from my campaign to my gophish vm.
 
 _________________________________________________________________________________________________________________________________________________
 
@@ -227,7 +232,7 @@ ________________________________________________________________________________
 
 <img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/c078ead6-c287-4847-b3b2-bd7fceb3557f" />
 
-### Time to test if it works. Sh#t, it failed because of a typo, motherfu##. "nano fake_smtp.py" to fix my mistake quickly.
+### Time to test if it works. Sh#t, it failed because of a typo. "nano fake_smtp.py" to fix my mistake quickly.
 
 <img width="266" height="76" alt="image" src="https://github.com/user-attachments/assets/a6b1b67c-e401-4f2d-9b56-0a5de238b827" />
 
