@@ -13,5 +13,6 @@
 
 local_shadow = 1234
 
+## Task 4 and the rest take too long to do it on windows so i will continue this in my VM.
 
 # task 4
