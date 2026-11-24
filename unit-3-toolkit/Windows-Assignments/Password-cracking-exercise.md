@@ -26,3 +26,9 @@ local_shadow = 1234
 <img width="627" height="210" alt="image" src="https://github.com/user-attachments/assets/9dcb42cc-fbd8-4333-bbe5-648d9005139b" />
 
 <img width="959" height="532" alt="image" src="https://github.com/user-attachments/assets/fdbd5cb2-d6e6-4829-9f40-e4f79370d352" />
+
+### The extracted message turned out to be mango
+
+<img width="191" height="86" alt="image" src="https://github.com/user-attachments/assets/da3e115d-557d-4adf-9ab8-b72a724f07d8" />
+
+# 
