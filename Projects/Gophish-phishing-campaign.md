@@ -45,7 +45,7 @@ ________________________________________________________________________________
 
 <img width="513" height="157" alt="image" src="https://github.com/user-attachments/assets/b3759a59-972d-43d4-9c60-12d9287004a2" />
 
-### After confirming that the VM has Gophish and that it can run. I will now switch the network adapter from NAT to Host-Only.
+### After confirming that the VM has Gophish and that it can run, i will keep the network adapter as NAT to be able to run the website.
 
 <img width="573" height="559" alt="image" src="https://github.com/user-attachments/assets/e70460a5-7351-492a-95e7-0c8714ac8c49" />
 
