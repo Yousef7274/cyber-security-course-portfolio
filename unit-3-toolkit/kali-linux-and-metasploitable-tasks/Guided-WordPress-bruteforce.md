@@ -1,4 +1,4 @@
-<img width="602" height="128" alt="image" src="https://github.com/user-attachments/assets/b361eb0b-224f-48be-a218-afe097e46b4c" /># 1. Identify the target
+# 1. Identify the target
 
 <img width="959" height="495" alt="image" src="https://github.com/user-attachments/assets/02cd587a-fe62-4f5d-aebc-f134946c9349" />
 
@@ -36,6 +36,6 @@
 
 <img width="652" height="380" alt="image" src="https://github.com/user-attachments/assets/dda233ad-01d4-4126-ad2b-e702bcf36aba" />
 
-
+<img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/74f9de5e-1e36-4d53-8b22-1bc0c889e085" />
 
 
