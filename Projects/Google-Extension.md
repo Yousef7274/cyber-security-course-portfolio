@@ -3,7 +3,7 @@
 
 
 
-## Tab counter extension
+# Tab counter extension
 
 ### I start off by making 4 text files inside vscode to write the code inside and find 1 image from google which will be the icon of the extension 
 
@@ -75,3 +75,14 @@
 
 ##### AMAZINGLY SUCCESSFUL
 
+#### Final test, Seeing if i can change the amount of tabs it will scream at me for.
+
+<img width="196" height="139" alt="image" src="https://github.com/user-attachments/assets/1ad21b7a-f653-4936-a105-dbb81ec8be22" />
+
+<img width="199" height="158" alt="image" src="https://github.com/user-attachments/assets/da8498cd-2c1c-4e9b-b7ca-d14103efd89e" />
+
+<img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/fe51ad79-103c-4055-b728-16703d61604e" />
+
+## Its complete and works wonderfully. Now onto the next extension.
+
+# 
