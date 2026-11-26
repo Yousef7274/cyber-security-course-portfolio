@@ -1,8 +1,6 @@
 # Here i will make 2 google extensions, one is going to be a tab counter and its going to warn you if you start having too many tabs, and the other is going to be a notepad that you can open inside google which will remember all the notes you have made and you can also save the notes you wrote as a .txt file or markdown file onto you're computer.
 
 
-
-
 # Tab counter extension
 
 ### I start off by making 4 text files inside vscode to write the code inside and find 1 image from google which will be the icon of the extension 
@@ -85,4 +83,60 @@
 
 ## Its complete and works wonderfully. Now onto the next extension.
 
-# 
+# Tab notes extension
+
+### Repeating the same step as last time by making 4 files and adding 1 png file for the icon. 
+
+<img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/da80fe7b-50c8-4fab-82e8-0ce961c907eb" />
+
+<img width="959" height="557" alt="image" src="https://github.com/user-attachments/assets/8b73a9f5-dfbf-4c12-8f05-897fe4d1c684" />
+
+### Now i have to start coding again and hope not to make a mistake.
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/4f4ce82b-b8ed-4b2e-b21d-d4c8acebcba9" />
+
+<img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/4b2e1f8e-1c6e-482c-9539-1c8bb05f4036" />
+
+<img width="959" height="559" alt="image" src="https://github.com/user-attachments/assets/03628de4-404d-48f7-b4b1-8c2abf5839ac" />
+
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/08b4f542-196e-4d8f-96a4-dbbb60c0f447" />
+
+### And now i unpack it in chrome extensions.
+
+<img width="959" height="561" alt="image" src="https://github.com/user-attachments/assets/87fad40c-746d-42b5-aff9-ce283168ee47" />
+
+<img width="959" height="359" alt="image" src="https://github.com/user-attachments/assets/6f2e9e8d-8c7f-41d1-906c-df15853ccbf6" />
+
+#### As expected there are mistypes that i have made.
+
+<img width="959" height="494" alt="image" src="https://github.com/user-attachments/assets/69c3a2c8-711d-47ce-9928-07a28ed4b16e" />
+
+### After fixing my mistakes i go see if it works.
+
+<img width="959" height="69" alt="image" src="https://github.com/user-attachments/assets/fa26dd88-c867-40bb-b0a6-fef40b71932f" />
+
+<img width="959" height="263" alt="image" src="https://github.com/user-attachments/assets/859815a8-4cb3-47b5-878f-cadb950e2ad3" />
+
+### It seems there is another error with the code, time to fix it. I forgot to take a screenshot but the error was the words not being counted.
+
+### After fixing it, it works perfectly fine now. 
+
+<img width="959" height="555" alt="image" src="https://github.com/user-attachments/assets/85880a34-b50a-429f-991b-6028370e62c0" />
+
+### Now i have to make it so that you can save it as a text file/markdown file.
+
+<img width="959" height="290" alt="image" src="https://github.com/user-attachments/assets/b14735c5-b43c-4808-b8da-2590c6d29bc9" />
+
+### Now to see if it can export the message to text files.
+
+<img width="959" height="409" alt="image" src="https://github.com/user-attachments/assets/0e65f2cf-4a82-4cd7-add9-efb8ed6cd533" />
+
+<img width="959" height="405" alt="image" src="https://github.com/user-attachments/assets/6cfc0f9a-6410-441e-a04a-61fbd6ccc126" />
+
+<img width="565" height="46" alt="image" src="https://github.com/user-attachments/assets/38ff66ff-ff51-42aa-bd73-0c6a7f5305a1" />
+
+<img width="769" height="362" alt="image" src="https://github.com/user-attachments/assets/403468c8-c492-406c-83d0-c3e7db980ba2" />
+
+<img width="769" height="368" alt="image" src="https://github.com/user-attachments/assets/ea8d38e3-905f-4c19-b931-84904897e3fd" />
+
+## And im done.
