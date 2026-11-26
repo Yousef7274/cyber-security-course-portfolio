@@ -26,3 +26,34 @@
 ### I needed a little bit of help coding the saving part.
 
 <img width="959" height="557" alt="image" src="https://github.com/user-attachments/assets/584f9137-86c1-45ff-a00b-5d111d916901" />
+
+### Now i go into chrome extensions and turn on developer mode to put my folder in there.
+
+<img width="959" height="558" alt="image" src="https://github.com/user-attachments/assets/87e0dc69-bdca-485f-8e25-77fd7fefea05" />
+
+<img width="959" height="553" alt="image" src="https://github.com/user-attachments/assets/77d5fd64-d4f8-412f-bb5c-c704c180c0f8" />
+
+<img width="959" height="147" alt="image" src="https://github.com/user-attachments/assets/a815b102-7b4f-4571-a764-97d47d8bff0c" />
+
+<img width="959" height="344" alt="image" src="https://github.com/user-attachments/assets/99be0396-ca54-4097-845e-26a29d372760" />
+
+<img width="329" height="221" alt="image" src="https://github.com/user-attachments/assets/643f95d2-55ad-4890-a308-0855b3665f09" />
+
+### I opened the google error checker so see if it had any errors to fix.
+
+<img width="671" height="287" alt="image" src="https://github.com/user-attachments/assets/18a4b238-8309-4092-aa02-b98c054d7c29" />
+
+#### And found a typo... God i hate coding
+
+<img width="959" height="551" alt="image" src="https://github.com/user-attachments/assets/b15aadbc-683a-4c70-9983-bdc3c68df07b" />
+
+### After fixing the typo there were no more errors present so i tested it to see if it worked.
+
+<img width="252" height="157" alt="image" src="https://github.com/user-attachments/assets/23a349d6-85cf-491d-9256-2b8b9a0d53a6" />
+
+#### Test 1, trying to pin it.
+
+
+
+
+
