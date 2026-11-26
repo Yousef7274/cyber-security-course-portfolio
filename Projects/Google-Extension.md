@@ -59,4 +59,19 @@
 
 #### Test 2, trying to see if the UI works.
 
+<img width="320" height="202" alt="image" src="https://github.com/user-attachments/assets/053f0003-f29d-4154-b13e-ee241e3bc42f" />
+
+##### Success.
+
+#### Test 3, Seeing if it can count how many tabs i have open.
+
+<img width="954" height="230" alt="image" src="https://github.com/user-attachments/assets/ee93088b-1a20-4df5-8ebb-de15dc6d0bbd" />
+
+##### Success. 
+
+#### Test 4, Seeing if it will warn me about having too many tabs open.
+
+<img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/c923c7bf-1ed5-45e5-8bfb-deaed0f3d9f4" />
+
+##### AMAZINGLY SUCCESSFUL
 
