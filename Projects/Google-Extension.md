@@ -53,7 +53,10 @@
 
 #### Test 1, trying to pin it.
 
+<img width="959" height="63" alt="image" src="https://github.com/user-attachments/assets/7e352d98-c9a8-4f02-bf59-fdd896bd1236" />
 
+##### Success.
 
+#### Test 2, trying to see if the UI works.
 
 
